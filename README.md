@@ -1,6 +1,6 @@
 ## About me
 I'm a student data/product analyst.  
-My education: Master's Degree in Cybersecurity of information systems.
+My education: Information Systems and Technologies.
 
 |          | Tech stack            |
 |:-:|-|
